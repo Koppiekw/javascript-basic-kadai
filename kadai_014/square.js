@@ -3,4 +3,4 @@ const squareNumber = (num) => {
     
 }
 squareNumber(4);
-console.log(square);
+console.log(squareNumber(4));
